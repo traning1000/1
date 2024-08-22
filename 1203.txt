@@ -20,11 +20,11 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.ctv
-CHC动作电影,https://pi.0472.org/chc/dz.m38u
+CHC动作电影,https://pi.0472.org/livetv/chcdz.m3u8
 CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8
-CHC家庭影院,http://148.135.93.213:81/live.php?id=CHC家庭影院
+CHC家庭影院,https://pi.0472.org/livetv/chcjt.m3u8
 CHC影迷电影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
-CHC影迷电影,https://pi.0472.org/chc/um.m38u
+CHC影迷电影,https://pi.0472.org/livetv/chcym.m3u8
 第一剧场,https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
 第一剧场,http://60.10.139.10:8801/hls/65/index.m3u8
 怀旧剧场,https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
