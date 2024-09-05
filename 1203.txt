@@ -26,7 +26,7 @@ CHC家庭影院,http://gzly.hkychina.com:6001/rtp/239.252.219.84:5140?Cf=cfss.cc
 CHC影迷电影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
 CHC影迷电影,http://gzly.hkychina.com:6001/rtp/239.252.219.83:5140?Cf=cfss.cc
 第一剧场,https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
-第一剧场,http://60.10.139.10:8801/hls/65/index.m3u8
+第一剧场,http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
 怀旧剧场,https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
 怀旧剧场,http://110.241.188.219:808/hls/56/index.m3u8
 风云剧场,https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.ctv
