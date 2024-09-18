@@ -20,18 +20,25 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.ctv
-CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
+CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261
+CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8
+CHC动作电影,http://123.10.76.226:808/hls/97/index.m3u8
 CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8
-CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+CHC家庭影院,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8
+CHC家庭影院,http://123.10.76.226:808/hls/99/index.m3u8
 CHC影迷电影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
-CHC影迷电影,http://171.117.73.99:8083/rtp/226.0.2.93:8004
-CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
+CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
+CHC影迷电影,http://123.10.76.226:808/hls/98/index.m3u8
+CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 第一剧场,https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
-第一剧场,http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
+第一剧场,http://www.lizhinas.top:8688/rtp/239.252.219.86:5140$江西cmc3+
+第一剧场,http://171.116.35.81:8003/rtp/226.0.2.221:9680
 怀旧剧场,https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
 怀旧剧场,http://www.lizhinas.top:8688/rtp/239.252.219.90:5140$江西cmc3+
+怀旧剧场,http://171.116.35.81:8003/rtp/226.0.2.224:9704
 风云剧场,https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.ctv
-风云剧场,http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV
+风云剧场,http://www.lizhinas.top:8688/rtp/239.252.219.89:5140$江西cmc3+
+风云剧场,http://171.116.35.81:8003/rtp/226.0.2.227:9728
 豆瓣TOP,http://zzy789.xyz/douyu1.php?id=8770422
 豆瓣TOP,https://www.goodiptv.club/douyu/8770422
 豆瓣TOP,http://43.138.170.29:35455/douyu/8770422
@@ -56,12 +63,13 @@ CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 🌿【央视IPV6】,#genre#
-CHC影迷电影,http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-CHC家庭影院,http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
-CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
+CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+CHC动作电影,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
+CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 🐠斗鱼,#genre#
 豆瓣TOP,https://www.goodiptv.club/douyu/8770422
