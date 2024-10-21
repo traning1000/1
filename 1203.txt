@@ -3,7 +3,6 @@ CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2,http://gslbserv.itv.cmvideo.cn/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
-CCTV2,http://gslbserv.itv.cmvideo.cn/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -150,6 +149,8 @@ CHC高清电影,http://58.52.180.64:9999/rtp/239.69.1.241:11088$湖北cmc
 神乐斗鱼,http://zzy789.xyz/douyu1.php?id=122402
 神乐斗鱼,https://diyp.112114.xyz/douyu/122402
 神乐斗鱼,https://epg.112114.xyz/douyu/122402
+神乐2斗鱼,https://www.goodiptv.club/douyu/85894
+神乐2斗鱼,http://zzy789.xyz/douyu1.php?id=85894
 贝爷MAX斗鱼,https://www.goodiptv.club/douyu/4332
 贝爷MAX斗鱼,http://zzy789.xyz/douyu1.php?id=4332
 贝爷MAX斗鱼,https://diyp.112114.xyz/douyu/4332
@@ -167,6 +168,8 @@ CHC高清电影,http://58.52.180.64:9999/rtp/239.69.1.241:11088$湖北cmc
 粤语斗鱼,https://diyp.112114.xyz/douyu/6566671
 粤语2斗鱼,https://www.goodiptv.club/douyu/1226741
 粤语2斗鱼,http://zzy789.xyz/douyu1.php?id=1226741
+粤语3斗鱼,https://www.goodiptv.club/douyu/5033502
+粤语3斗鱼,http://zzy789.xyz/douyu1.php?id=5033502
 贝贝斗鱼,https://www.goodiptv.club/douyu/431460
 贝贝斗鱼,http://zzy789.xyz/douyu1.php?id=431460
 Liz斗鱼,https://www.goodiptv.club/douyu/7254536
@@ -179,6 +182,8 @@ Liz斗鱼,http://zzy789.xyz/douyu1.php?id=7254536
 小点播斗鱼,http://zzy789.xyz/douyu1.php?id=3928
 花卷斗鱼,https://www.goodiptv.club/douyu/52787
 花卷斗鱼,http://zzy789.xyz/douyu1.php?id=52787
+谢耳朵斗鱼,https://www.goodiptv.club/douyu/6668627
+谢耳朵斗鱼,http://zzy789.xyz/douyu1.php?id=6668627
 知否YY,https://lunbo.freetv.top/yy/21881901
 知否YY,https://lunbo.freetv.top/yy/398312
 知否YY,https://lunbo.freetv.top/yy/380832319
@@ -198,13 +203,13 @@ Liz斗鱼,http://zzy789.xyz/douyu1.php?id=7254536
 阿斗虎牙,http://cfss.cc/cdn/hy/13303478.flv
 Friends虎牙,http://124.248.69.76:35455/huya/26355834
 Friends虎牙,http://cfss.cc/cdn/hy/26355834.flv
-一人之下虎牙,http://124.248.69.76:35455/huya/1135286
-一人之下虎牙,http://cfss.cc/cdn/hy/11352869.flv
 小新虎牙,http://124.248.69.76:35455/huya/29458851
 小新2虎牙,http://124.248.69.76:35455/huya/11352970
 小新2虎牙,http://cfss.cc/cdn/hy/11352970.flv
 寻秦记虎牙,http://124.248.69.76:35455/huya/23864973
+寻秦记虎牙,http://cfss.cc/cdn/hy/23864973.flv
 鹿鼎记虎牙,http://124.248.69.76:35455/huya/23865080
+鹿鼎记虎牙,http://cfss.cc/cdn/hy/23865080.flv
 小包虎牙,http://124.248.69.76:35455/huya/833718
 小包虎牙,http://cfss.cc/cdn/hy/833718.flv
 老吴虎牙,http://124.248.69.76:35455/huya/141289
