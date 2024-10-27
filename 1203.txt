@@ -82,7 +82,6 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012$山西uni2+
-CHC动作电影,http://219.140.225.0:5555/rtp/239.69.1.242:11094$湖北cmc
 CHC动作电影,http://183.191.249.69:8004/rtp/226.0.2.94:8012$山西uni
 CHC动作电影,http://171.117.141.44:8004/rtp/226.0.2.94:8012$山西uni
 CHC动作电影,http://171.121.82.245:8083/rtp/226.0.2.94:8012$山西uni
@@ -180,8 +179,6 @@ Liz斗鱼,http://zzy789.xyz/douyu1.php?id=7254536
 凌儿斗鱼,http://zzy789.xyz/douyu1.php?id=1377142
 小点播斗鱼,https://www.goodiptv.club/douyu/3928
 小点播斗鱼,http://zzy789.xyz/douyu1.php?id=3928
-花卷斗鱼,https://www.goodiptv.club/douyu/52787
-花卷斗鱼,http://zzy789.xyz/douyu1.php?id=52787
 谢耳朵斗鱼,https://www.goodiptv.club/douyu/6668627
 谢耳朵斗鱼,http://zzy789.xyz/douyu1.php?id=6668627
 知否YY,https://lunbo.freetv.top/yy/21881901
@@ -204,9 +201,8 @@ Liz斗鱼,http://zzy789.xyz/douyu1.php?id=7254536
 阿斗虎牙,http://cfss.cc/cdn/hy/13303478.flv
 Friends虎牙,http://124.248.69.76:35455/huya/26355834
 Friends虎牙,http://cfss.cc/cdn/hy/26355834.flv
-小新虎牙,http://124.248.69.76:35455/huya/29458851
-小新2虎牙,http://124.248.69.76:35455/huya/11352970
-小新2虎牙,http://cfss.cc/cdn/hy/11352970.flv
+小新虎牙,http://124.248.69.76:35455/huya/11352970
+小新虎牙,http://cfss.cc/cdn/hy/11352970.flv
 寻秦记虎牙,http://124.248.69.76:35455/huya/23864973
 寻秦记虎牙,http://cfss.cc/cdn/hy/23864973.flv
 鹿鼎记虎牙,http://124.248.69.76:35455/huya/23865080
