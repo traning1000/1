@@ -49,6 +49,12 @@ CCTV5+,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 豆瓣TOP,https://www.goodiptv.club/douyu/8770422
 豆瓣TOP,http://43.138.170.29:35455/douyu/8770422
 豆瓣TOP,http://159.75.85.63:35455/douyu/8770422
+CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8
+CHC动作电影,http://124.231.213.211:9999/tsfile/live/1109_1.m3u8
+CHC动作电影,http://118.79.7.143:6000/rtp/226.0.2.94:8012
+CHC动作电影,http://111.165.0.98:8888/udp/225.1.1.215:5002
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
+CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-10.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
