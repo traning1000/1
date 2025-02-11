@@ -45,17 +45,6 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-豆瓣TOP,http://zzy789.xyz/douyu1.php?id=8770422
-豆瓣TOP,https://www.goodiptv.club/douyu/8770422
-豆瓣TOP,http://43.138.170.29:35455/douyu/8770422
-豆瓣TOP,http://159.75.85.63:35455/douyu/8770422
-CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
-CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
-CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
-CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
-CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -273,7 +262,7 @@ CETV4,http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8$黑龙江移动
 新闻综合,http://39.134.67.108/PLTV/88888888/224/3221226062/1.m3u8$黑龙江移动
 新闻综合,http://39.134.67.108/PLTV/88888888/224/3221225993/1.m3u8$黑龙江移动
 
-🌿【海口移动】,#genre#
+🌿海口移动,#genre#
 CCTV1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
 CCTV2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
 CCTV3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
@@ -335,7 +324,7 @@ CCTV5+,http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?chann
 明星大片,http://111.29.9.33:6610/000000001000/1000000004000019008/index.m3u8?channel-id=bestzb&Contentid=1000000004000019008&livemode=1&stbId=3
 超级体育,http://111.29.9.33:6610/000000001000/1000000004000007755/index.m3u8?channel-id=bestzb&Contentid=1000000004000007755&livemode=1&stbId=3
 
-💝山东省东营市联通,#genre#
+东营联通,#genre#
 CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://222.134.245.16:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://222.134.245.16:9901/tsfile/live/0003_1.m3u8
@@ -383,7 +372,7 @@ CCTV17,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8
 宁夏卫视,http://222.134.245.16:9901/tsfile/live/0112_1.m3u8
 甘肃卫视,http://222.134.245.16:9901/tsfile/live/0141_1.m3u8
 
-💝济南联通,#genre#
+济南联通,#genre#
 CCTV1,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://124.128.73.58:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -441,10 +430,6 @@ CCTV15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 济南都市,http://124.128.73.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 济南影视,http://124.128.73.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 海看大片,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
 
 🐠斗鱼,#genre#
 豆瓣TOP斗鱼,https://www.goodiptv.club/douyu/8770422
