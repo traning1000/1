@@ -1347,7 +1347,6 @@ CCTV3,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&au
 CCTV3,http://qjrhc.jydjd.top:2911/udp/224.1.100.63:11111
 CCTV3,http://huashetou.fun:35455/gaoma/cctv3.m3u8
 CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
 CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
@@ -3045,8 +3044,6 @@ CCTV7,http://huashetou.fun:35455/gaoma/cctv7.m3u8
 CCTV7,https://www.freetv.top/migu/673168121.m3u8?migutoken=97a46285e2ac80354b4cda7972c410ce7c4ea2d42ac569d87ec2072905e3f1274f652ad22225021e86a0449f109ca248ae7e401e49373b725d4190ff653b660e58abedd89065cf4c052ea97e81
 CCTV7,http://120.192.226.35:8009/hls/504/index.m3u8
 CCTV7,http://183.66.15.146:60901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 CCTV8,http://69.30.245.50/live/cctv8.m3u8
 CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV8,http://207.56.13.146:81/cdnlive/cctv8.m3u8
