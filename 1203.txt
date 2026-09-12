@@ -13312,21 +13312,20 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-2.ctv
 三沙卫视,http://119.36.148.115:59901/tsfile/live/1009_1.m3u8
 
 🔃虎牙,#genre#
-老司机电影虎牙,https://www.goodiptv.club/huya/11352894
-007虎牙,https://www.goodiptv.club/huya/21059585
-电影最TOP虎牙,https://www.goodiptv.club/huya/11774959
-阿斗虎牙,https://www.goodiptv.club/huya/13303478
-Friends1-5虎牙,https://www.goodiptv.club/huya/26355834
-生活大爆炸1-7虎牙,https://www.goodiptv.club/huya/30080189
-小新虎牙,https://www.goodiptv.club/huya/11352970
-阿杰虎牙,https://www.goodiptv.club/huya/30080234
-小包虎牙,https://www.goodiptv.club/huya/833718
+老司机电影虎牙,https://live.ottiptv.cc/huya/11352894
+007虎牙,https://live.ottiptv.cc/huya/21059585
+电影最TOP虎牙,https://live.ottiptv.cc/huya/11774959
+阿斗虎牙,https://live.ottiptv.cc/huya/13303478
+Friends1-5虎牙,https://live.ottiptv.cc/huya/26355834
+小新虎牙,https://live.ottiptv.cc/huya/11352970
+阿杰虎牙,https://live.ottiptv.cc/huya/30080234
+小包虎牙,https://live.ottiptv.cc/huya/833718
 
 🐠斗鱼yy,#genre#
-女神金斗鱼,https://www.goodiptv.club/douyu/747764
-粤语斗鱼,https://www.goodiptv.club/douyu/1226741
-贝贝斗鱼,https://www.goodiptv.club/douyu/431460
-师落,https://www.goodiptv.club/douyu/6911044
-老三国斗鱼,https://www.goodiptv.club/douyu/7459925
+女神金斗鱼,https://live.ottiptv.cc/douyu/747764
+粤语斗鱼,https://live.ottiptv.cc/douyu/1226741
+贝贝斗鱼,https://live.ottiptv.cc/douyu/431460
+师落,https://live.ottiptv.cc/douyu/6911044
+老三国斗鱼,https://live.ottiptv.cc/douyu/7459925
 知否知否应是绿肥红瘦,https://live.ottiptv.cc/yy/21881901
 喜剧影院,http://74.91.26.218:82/live/vlxjyy.m3u8
