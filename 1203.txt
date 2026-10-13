@@ -1,5 +1,5 @@
 💓央视,#genre#
-CCTV1[1280*720],http://107.150.60.122/live/cctv1hd.m3u8?720P
+CCTV1[1280*720],http://107.150.60.122/live/cctv1hd.m3u8$720P
 CCTV1[1280*720],http://112.26.106.165:7788/608807420
 CCTV1[1280*720],http://113.98.11.46:3000/608807420
 CCTV1[1280*720],http://116.77.33.98:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
