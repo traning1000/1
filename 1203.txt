@@ -1,5 +1,5 @@
 💓央视,#genre#
-CCTV1[1280*720],http://107.150.60.122/live/cctv1hd.m3u8
+CCTV1[1280*720],http://107.150.60.122/live/cctv1hd.m3u8?720P
 CCTV1[1280*720],http://112.26.106.165:7788/608807420
 CCTV1[1280*720],http://113.98.11.46:3000/608807420
 CCTV1[1280*720],http://116.77.33.98:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -534,11 +534,6 @@ CCTV6[1920*1080],http://www.yyf1991.top:9999/rtp/233.18.204.72:5140
 CCTV6[1920*1080],http://yjj888.f3322.net:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6[1920*1080],http://z.d4p.cn:8000/rtp/239.49.8.76:8000
 CCTV6[1920*1080],http://zzssw01.55555.io:9901/tsfile/live/0006_1.m3u8
-CCTV6[720*576],http://124.90.45.52:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6[720*576],http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
-CCTV6[854*480],http://111.228.4.117:6789/migu720p.php?id=624878396
-CCTV6[854*480],http://smartzhu.cn:1234/624878396
-CCTV6[960*540],http://47.104.178.59:3566/624878396
 CCTV7[1280*720],http://104.152.209.49:8181/720p/cctv7.m3u8
 CCTV7[1280*720],http://112.26.106.165:7788/673168121
 CCTV7[1280*720],http://113.98.11.46:3000/673168121
